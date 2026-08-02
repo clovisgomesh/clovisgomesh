@@ -28,6 +28,8 @@ C# | .NET | Python | SQL | Power BI | Building Technology Solutions
 
 I am a **Full Stack Developer**, **Information Systems Graduate**, **Data Analyst**, and **Mathematics Teacher** with a multidisciplinary background in Mathematics, Statistics, Computer Science, and Software Development.
 
+I currently provide software development services for **CoreByte Tech Solutions**, contributing to modern web applications, backend systems, APIs, and software engineering projects.
+
 My professional journey combines years of experience in education with a strong passion for technology, software engineering, and data analysis.
 
 My mathematical background has strengthened my analytical thinking, logical reasoning, and problem-solving abilities, which I apply to software development and business intelligence projects.
@@ -166,6 +168,30 @@ alt="Profile Views">
 ---
 
 # 💼 Professional Experience
+
+## 💼 Software Development Consultant
+### CoreByte Tech Solutions
+
+Currently providing software development services, participating in the design, development and maintenance of modern software solutions.
+
+**Main Activities**
+
+- Full Stack Web Development
+- Backend Development with C# and .NET
+- ASP.NET Core Applications
+- REST API Development
+- Database Design and Management
+- SQL Server & PostgreSQL
+- Software Architecture
+- Clean Architecture
+- Clean Code
+- Git & GitHub
+- Agile Development
+- Software Maintenance
+- Performance Optimization
+- Integration of Systems
+
+---
 
 ## 👨‍🏫 Mathematics Teacher
 
